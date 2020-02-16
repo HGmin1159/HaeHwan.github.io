@@ -123,18 +123,7 @@ fi;
 #### HTML
 
 ```html
-<div class="sidenav">
-  <a href="#contact">Contact</a>
-  <button class="dropdown-btn">Dropdown
-    <i class="fa fa-caret-down"></i>
-  </button>
-  <div class="dropdown-container">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-  <a href="#contact">Search</a>
-</div>
+<iframe src="https://onedrive.live.com/embed?cid=65EC8853F74DD168&amp;resid=65EC8853F74DD168%215257&amp;authkey=AEoIYEXmKbNaOqA&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">포함된 <a target="_blank" href="https://office.com">Microsoft Office</a> 프레젠테이션, 제공: <a target="_blank" href="https://office.com/webapps">Office</a></iframe>
 ```
 
 **Horizontal Scrolling**
